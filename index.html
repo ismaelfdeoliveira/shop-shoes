@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shop Shoes</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0; background: #fafafa; color: #1a1a1a; }
+    header { background: #12326b; color: #fff; padding: 16px 24px; }
+    header h1 { margin: 0; font-size: 1.4rem; }
+    main { padding: 24px; }
+    #grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+    .card { background: #fff; border-radius: 8px; padding: 12px; box-shadow: 0 1px 4px rgba(0,0,0,.12); }
+    .card img { width: 100%; height: auto; }
+    .card h3 { font-size: 1rem; margin: 8px 0 4px; }
+    .card p { margin: 0; font-weight: 600; color: #d9600b; }
+  </style>
+</head>
+<body>
+  <header><h1 id="nome-loja"></h1></header>
+  <main><div id="grade"></div></main>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "corrida-01",
+    "nome": "Veloz Sprint 01",
+    "marca": "Veloz",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "azul",
+    "faixa_preco": "médio",
+    "preco": 309.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-01.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "azul",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "corrida-02",
+    "nome": "Nortex Aero 02",
+    "marca": "Nortex",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      39,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-02.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "vermelho",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "corrida-03",
+    "nome": "Pulse Pace 03",
+    "marca": "Pulse",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "preto",
+    "faixa_preco": "econômico",
+    "preco": 239.9,
+    "tamanhos": [
+      36,
+      37,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-03.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "preto",
+      "econômico",
+      "pulse"
+    ]
+  },
+  {
+    "id": "corrida-04",
+    "nome": "Atlas Flux 04",
+    "marca": "Atlas",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "verde neon",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      36,
+      37,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-04.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "verde",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "corrida-05",
+    "nome": "Urbano Stride 05",
+    "marca": "Urbano",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "laranja",
+    "faixa_preco": "médio",
+    "preco": 299.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-05.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "laranja",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "corrida-06",
+    "nome": "Veloz Sprint 06",
+    "marca": "Veloz",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "cinza",
+    "faixa_preco": "econômico",
+    "preco": 249.9,
+    "tamanhos": [
+      36,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-06.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "cinza",
+      "econômico",
+      "veloz"
+    ]
+  },
+  {
+    "id": "corrida-07",
+    "nome": "Nortex Aero 07",
+    "marca": "Nortex",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "azul",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-07.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "azul",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "corrida-08",
+    "nome": "Pulse Pace 08",
+    "marca": "Pulse",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      43
+    ],
+    "imagem": "img/corrida-08.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "vermelho",
+      "médio",
+      "pulse"
+    ]
+  },
+  {
+    "id": "corrida-09",
+    "nome": "Atlas Flux 09",
+    "marca": "Atlas",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "preto",
+    "faixa_preco": "médio",
+    "preco": 369.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-09.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "preto",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "corrida-10",
+    "nome": "Urbano Stride 10",
+    "marca": "Urbano",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "verde neon",
+    "faixa_preco": "médio",
+    "preco": 369.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      43
+    ],
+    "imagem": "img/corrida-10.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "verde",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "corrida-11",
+    "nome": "Veloz Sprint 11",
+    "marca": "Veloz",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "laranja",
+    "faixa_preco": "premium",
+    "preco": 499.9,
+    "tamanhos": [
+      37,
+      38,
+      39,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-11.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "laranja",
+      "premium",
+      "veloz"
+    ]
+  },
+  {
+    "id": "corrida-12",
+    "nome": "Nortex Aero 12",
+    "marca": "Nortex",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "cinza",
+    "faixa_preco": "médio",
+    "preco": 389.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-12.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "cinza",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "corrida-13",
+    "nome": "Pulse Pace 13",
+    "marca": "Pulse",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "azul",
+    "faixa_preco": "premium",
+    "preco": 419.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "imagem": "img/corrida-13.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "azul",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "corrida-14",
+    "nome": "Atlas Flux 14",
+    "marca": "Atlas",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 299.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "imagem": "img/corrida-14.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "vermelho",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "corrida-15",
+    "nome": "Urbano Stride 15",
+    "marca": "Urbano",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "preto",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      40,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-15.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "preto",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "corrida-16",
+    "nome": "Veloz Sprint 16",
+    "marca": "Veloz",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "verde neon",
+    "faixa_preco": "médio",
+    "preco": 329.9,
+    "tamanhos": [
+      37,
+      38,
+      39,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/corrida-16.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "verde",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "corrida-17",
+    "nome": "Nortex Aero 17",
+    "marca": "Nortex",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "laranja",
+    "faixa_preco": "premium",
+    "preco": 479.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/corrida-17.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "laranja",
+      "premium",
+      "nortex"
+    ]
+  },
+  {
+    "id": "corrida-18",
+    "nome": "Pulse Pace 18",
+    "marca": "Pulse",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "cinza",
+    "faixa_preco": "premium",
+    "preco": 499.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/corrida-18.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "cinza",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "corrida-19",
+    "nome": "Atlas Flux 19",
+    "marca": "Atlas",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "azul",
+    "faixa_preco": "econômico",
+    "preco": 219.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      44
+    ],
+    "imagem": "img/corrida-19.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "azul",
+      "econômico",
+      "atlas"
+    ]
+  },
+  {
+    "id": "corrida-20",
+    "nome": "Urbano Stride 20",
+    "marca": "Urbano",
+    "categoria": "corrida",
+    "uso": "corrida",
+    "estilo": "esportivo",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 379.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/corrida-20.webp",
+    "tags": [
+      "corrida",
+      "esportivo",
+      "vermelho",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "casual-01",
+    "nome": "Veloz Basic 01",
+    "marca": "Veloz",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "branco",
+    "faixa_preco": "médio",
+    "preco": 269.9,
+    "tamanhos": [
+      36,
+      39,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-01.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "branco",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "casual-02",
+    "nome": "Nortex Clean 02",
+    "marca": "Nortex",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "bege",
+    "faixa_preco": "médio",
+    "preco": 269.9,
+    "tamanhos": [
+      36,
+      37,
+      39,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-02.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "bege",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "casual-03",
+    "nome": "Pulse Lite 03",
+    "marca": "Pulse",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "preto",
+    "faixa_preco": "econômico",
+    "preco": 209.9,
+    "tamanhos": [
+      36,
+      37,
+      40,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/casual-03.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "preto",
+      "econômico",
+      "pulse"
+    ]
+  },
+  {
+    "id": "casual-04",
+    "nome": "Atlas Daily 04",
+    "marca": "Atlas",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "cinza",
+    "faixa_preco": "médio",
+    "preco": 279.9,
+    "tamanhos": [
+      36,
+      37,
+      39,
+      40,
+      41,
+      43
+    ],
+    "imagem": "img/casual-04.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "cinza",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "casual-05",
+    "nome": "Urbano Soft 05",
+    "marca": "Urbano",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "azul marinho",
+    "faixa_preco": "econômico",
+    "preco": 199.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      40,
+      41,
+      44
+    ],
+    "imagem": "img/casual-05.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "azul",
+      "econômico",
+      "urbano"
+    ]
+  },
+  {
+    "id": "casual-06",
+    "nome": "Veloz Basic 06",
+    "marca": "Veloz",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "verde oliva",
+    "faixa_preco": "econômico",
+    "preco": 199.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-06.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "verde",
+      "econômico",
+      "veloz"
+    ]
+  },
+  {
+    "id": "casual-07",
+    "nome": "Nortex Clean 07",
+    "marca": "Nortex",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "branco",
+    "faixa_preco": "econômico",
+    "preco": 199.9,
+    "tamanhos": [
+      36,
+      37,
+      39,
+      40,
+      41,
+      44
+    ],
+    "imagem": "img/casual-07.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "branco",
+      "econômico",
+      "nortex"
+    ]
+  },
+  {
+    "id": "casual-08",
+    "nome": "Pulse Lite 08",
+    "marca": "Pulse",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "bege",
+    "faixa_preco": "econômico",
+    "preco": 219.9,
+    "tamanhos": [
+      36,
+      37,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/casual-08.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "bege",
+      "econômico",
+      "pulse"
+    ]
+  },
+  {
+    "id": "casual-09",
+    "nome": "Atlas Daily 09",
+    "marca": "Atlas",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "preto",
+    "faixa_preco": "médio",
+    "preco": 329.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/casual-09.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "preto",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "casual-10",
+    "nome": "Urbano Soft 10",
+    "marca": "Urbano",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "cinza",
+    "faixa_preco": "médio",
+    "preco": 359.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/casual-10.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "cinza",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "casual-11",
+    "nome": "Veloz Basic 11",
+    "marca": "Veloz",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "azul marinho",
+    "faixa_preco": "médio",
+    "preco": 299.9,
+    "tamanhos": [
+      37,
+      39,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-11.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "azul",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "casual-12",
+    "nome": "Nortex Clean 12",
+    "marca": "Nortex",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "verde oliva",
+    "faixa_preco": "médio",
+    "preco": 279.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/casual-12.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "verde",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "casual-13",
+    "nome": "Pulse Lite 13",
+    "marca": "Pulse",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "branco",
+    "faixa_preco": "econômico",
+    "preco": 209.9,
+    "tamanhos": [
+      38,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-13.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "branco",
+      "econômico",
+      "pulse"
+    ]
+  },
+  {
+    "id": "casual-14",
+    "nome": "Atlas Daily 14",
+    "marca": "Atlas",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "bege",
+    "faixa_preco": "econômico",
+    "preco": 189.9,
+    "tamanhos": [
+      37,
+      38,
+      39,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/casual-14.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "bege",
+      "econômico",
+      "atlas"
+    ]
+  },
+  {
+    "id": "casual-15",
+    "nome": "Urbano Soft 15",
+    "marca": "Urbano",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "preto",
+    "faixa_preco": "médio",
+    "preco": 269.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/casual-15.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "preto",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "casual-16",
+    "nome": "Veloz Basic 16",
+    "marca": "Veloz",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "cinza",
+    "faixa_preco": "médio",
+    "preco": 359.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      43,
+      44
+    ],
+    "imagem": "img/casual-16.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "cinza",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "casual-17",
+    "nome": "Nortex Clean 17",
+    "marca": "Nortex",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "azul marinho",
+    "faixa_preco": "médio",
+    "preco": 339.9,
+    "tamanhos": [
+      36,
+      37,
+      39,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/casual-17.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "azul",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "casual-18",
+    "nome": "Pulse Lite 18",
+    "marca": "Pulse",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "verde oliva",
+    "faixa_preco": "econômico",
+    "preco": 209.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      42
+    ],
+    "imagem": "img/casual-18.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "verde",
+      "econômico",
+      "pulse"
+    ]
+  },
+  {
+    "id": "casual-19",
+    "nome": "Atlas Daily 19",
+    "marca": "Atlas",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "branco",
+    "faixa_preco": "médio",
+    "preco": 299.9,
+    "tamanhos": [
+      37,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/casual-19.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "branco",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "casual-20",
+    "nome": "Urbano Soft 20",
+    "marca": "Urbano",
+    "categoria": "casual",
+    "uso": "casual",
+    "estilo": "minimalista",
+    "cor": "bege",
+    "faixa_preco": "econômico",
+    "preco": 179.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      44
+    ],
+    "imagem": "img/casual-20.webp",
+    "tags": [
+      "casual",
+      "minimalista",
+      "bege",
+      "econômico",
+      "urbano"
+    ]
+  },
+  {
+    "id": "retro-01",
+    "nome": "Veloz Classic 01",
+    "marca": "Veloz",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "branco e azul",
+    "faixa_preco": "médio",
+    "preco": 289.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/retro-01.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "branco",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "retro-02",
+    "nome": "Nortex Vintage 02",
+    "marca": "Nortex",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "bege e vermelho",
+    "faixa_preco": "médio",
+    "preco": 349.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      40,
+      41,
+      44
+    ],
+    "imagem": "img/retro-02.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "bege",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "retro-03",
+    "nome": "Pulse Heritage 03",
+    "marca": "Pulse",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "cinza e verde",
+    "faixa_preco": "premium",
+    "preco": 409.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      40,
+      42,
+      44
+    ],
+    "imagem": "img/retro-03.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "cinza",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "retro-04",
+    "nome": "Atlas Legacy 04",
+    "marca": "Atlas",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "preto e laranja",
+    "faixa_preco": "premium",
+    "preco": 419.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "imagem": "img/retro-04.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "preto",
+      "premium",
+      "atlas"
+    ]
+  },
+  {
+    "id": "retro-05",
+    "nome": "Urbano Origin 05",
+    "marca": "Urbano",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "amarelo e cinza",
+    "faixa_preco": "médio",
+    "preco": 329.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "imagem": "img/retro-05.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "amarelo",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "retro-06",
+    "nome": "Veloz Classic 06",
+    "marca": "Veloz",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "branco e azul",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/retro-06.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "branco",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "retro-07",
+    "nome": "Nortex Vintage 07",
+    "marca": "Nortex",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "bege e vermelho",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      36,
+      39,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/retro-07.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "bege",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "retro-08",
+    "nome": "Pulse Heritage 08",
+    "marca": "Pulse",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "cinza e verde",
+    "faixa_preco": "médio",
+    "preco": 299.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/retro-08.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "cinza",
+      "médio",
+      "pulse"
+    ]
+  },
+  {
+    "id": "retro-09",
+    "nome": "Atlas Legacy 09",
+    "marca": "Atlas",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "preto e laranja",
+    "faixa_preco": "médio",
+    "preco": 339.9,
+    "tamanhos": [
+      37,
+      39,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/retro-09.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "preto",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "retro-10",
+    "nome": "Urbano Origin 10",
+    "marca": "Urbano",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "amarelo e cinza",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/retro-10.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "amarelo",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "retro-11",
+    "nome": "Veloz Classic 11",
+    "marca": "Veloz",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "branco e azul",
+    "faixa_preco": "econômico",
+    "preco": 249.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/retro-11.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "branco",
+      "econômico",
+      "veloz"
+    ]
+  },
+  {
+    "id": "retro-12",
+    "nome": "Nortex Vintage 12",
+    "marca": "Nortex",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "bege e vermelho",
+    "faixa_preco": "médio",
+    "preco": 289.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      41,
+      43
+    ],
+    "imagem": "img/retro-12.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "bege",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "retro-13",
+    "nome": "Pulse Heritage 13",
+    "marca": "Pulse",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "cinza e verde",
+    "faixa_preco": "premium",
+    "preco": 419.9,
+    "tamanhos": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      43
+    ],
+    "imagem": "img/retro-13.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "cinza",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "retro-14",
+    "nome": "Atlas Legacy 14",
+    "marca": "Atlas",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "preto e laranja",
+    "faixa_preco": "médio",
+    "preco": 309.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      41,
+      42,
+      43
+    ],
+    "imagem": "img/retro-14.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "preto",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "retro-15",
+    "nome": "Urbano Origin 15",
+    "marca": "Urbano",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "amarelo e cinza",
+    "faixa_preco": "médio",
+    "preco": 309.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/retro-15.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "amarelo",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "retro-16",
+    "nome": "Veloz Classic 16",
+    "marca": "Veloz",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "branco e azul",
+    "faixa_preco": "médio",
+    "preco": 339.9,
+    "tamanhos": [
+      36,
+      37,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/retro-16.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "branco",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "retro-17",
+    "nome": "Nortex Vintage 17",
+    "marca": "Nortex",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "bege e vermelho",
+    "faixa_preco": "médio",
+    "preco": 289.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/retro-17.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "bege",
+      "médio",
+      "nortex"
+    ]
+  },
+  {
+    "id": "retro-18",
+    "nome": "Pulse Heritage 18",
+    "marca": "Pulse",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "cinza e verde",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      38,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/retro-18.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "cinza",
+      "médio",
+      "pulse"
+    ]
+  },
+  {
+    "id": "retro-19",
+    "nome": "Atlas Legacy 19",
+    "marca": "Atlas",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "preto e laranja",
+    "faixa_preco": "econômico",
+    "preco": 249.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/retro-19.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "preto",
+      "econômico",
+      "atlas"
+    ]
+  },
+  {
+    "id": "retro-20",
+    "nome": "Urbano Origin 20",
+    "marca": "Urbano",
+    "categoria": "retro",
+    "uso": "casual",
+    "estilo": "retrô",
+    "cor": "amarelo e cinza",
+    "faixa_preco": "médio",
+    "preco": 399.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/retro-20.webp",
+    "tags": [
+      "casual",
+      "retrô",
+      "amarelo",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "street-01",
+    "nome": "Veloz Titan 01",
+    "marca": "Veloz",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "preto",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      40,
+      42,
+      44
+    ],
+    "imagem": "img/street-01.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "preto",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "street-02",
+    "nome": "Nortex Bold 02",
+    "marca": "Nortex",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "branco",
+    "faixa_preco": "premium",
+    "preco": 489.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/street-02.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "branco",
+      "premium",
+      "nortex"
+    ]
+  },
+  {
+    "id": "street-03",
+    "nome": "Pulse Block 03",
+    "marca": "Pulse",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 379.9,
+    "tamanhos": [
+      37,
+      38,
+      39,
+      40,
+      43,
+      44
+    ],
+    "imagem": "img/street-03.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "vermelho",
+      "médio",
+      "pulse"
+    ]
+  },
+  {
+    "id": "street-04",
+    "nome": "Atlas Rocket 04",
+    "marca": "Atlas",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "amarelo",
+    "faixa_preco": "premium",
+    "preco": 479.9,
+    "tamanhos": [
+      36,
+      38,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/street-04.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "amarelo",
+      "premium",
+      "atlas"
+    ]
+  },
+  {
+    "id": "street-05",
+    "nome": "Urbano Mega 05",
+    "marca": "Urbano",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "roxo",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      37,
+      39,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/street-05.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "roxo",
+      "médio",
+      "urbano"
+    ]
+  },
+  {
+    "id": "street-06",
+    "nome": "Veloz Titan 06",
+    "marca": "Veloz",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "verde",
+    "faixa_preco": "médio",
+    "preco": 349.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-06.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "verde",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "street-07",
+    "nome": "Nortex Bold 07",
+    "marca": "Nortex",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "preto",
+    "faixa_preco": "premium",
+    "preco": 539.9,
+    "tamanhos": [
+      37,
+      39,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-07.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "preto",
+      "premium",
+      "nortex"
+    ]
+  },
+  {
+    "id": "street-08",
+    "nome": "Pulse Block 08",
+    "marca": "Pulse",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "branco",
+    "faixa_preco": "premium",
+    "preco": 639.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-08.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "branco",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "street-09",
+    "nome": "Atlas Rocket 09",
+    "marca": "Atlas",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "vermelho",
+    "faixa_preco": "médio",
+    "preco": 369.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-09.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "vermelho",
+      "médio",
+      "atlas"
+    ]
+  },
+  {
+    "id": "street-10",
+    "nome": "Urbano Mega 10",
+    "marca": "Urbano",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "amarelo",
+    "faixa_preco": "premium",
+    "preco": 539.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      42,
+      43
+    ],
+    "imagem": "img/street-10.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "amarelo",
+      "premium",
+      "urbano"
+    ]
+  },
+  {
+    "id": "street-11",
+    "nome": "Veloz Titan 11",
+    "marca": "Veloz",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "roxo",
+    "faixa_preco": "médio",
+    "preco": 319.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      44
+    ],
+    "imagem": "img/street-11.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "roxo",
+      "médio",
+      "veloz"
+    ]
+  },
+  {
+    "id": "street-12",
+    "nome": "Nortex Bold 12",
+    "marca": "Nortex",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "verde",
+    "faixa_preco": "premium",
+    "preco": 629.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      42
+    ],
+    "imagem": "img/street-12.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "verde",
+      "premium",
+      "nortex"
+    ]
+  },
+  {
+    "id": "street-13",
+    "nome": "Pulse Block 13",
+    "marca": "Pulse",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "preto",
+    "faixa_preco": "premium",
+    "preco": 439.9,
+    "tamanhos": [
+      37,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-13.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "preto",
+      "premium",
+      "pulse"
+    ]
+  },
+  {
+    "id": "street-14",
+    "nome": "Atlas Rocket 14",
+    "marca": "Atlas",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "branco",
+    "faixa_preco": "premium",
+    "preco": 479.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      39,
+      43,
+      44
+    ],
+    "imagem": "img/street-14.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "branco",
+      "premium",
+      "atlas"
+    ]
+  },
+  {
+    "id": "street-15",
+    "nome": "Urbano Mega 15",
+    "marca": "Urbano",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "vermelho",
+    "faixa_preco": "premium",
+    "preco": 509.9,
+    "tamanhos": [
+      36,
+      37,
+      38,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-15.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "vermelho",
+      "premium",
+      "urbano"
+    ]
+  },
+  {
+    "id": "street-16",
+    "nome": "Veloz Titan 16",
+    "marca": "Veloz",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "amarelo",
+    "faixa_preco": "premium",
+    "preco": 509.9,
+    "tamanhos": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/street-16.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "amarelo",
+      "premium",
+      "veloz"
+    ]
+  },
+  {
+    "id": "street-17",
+    "nome": "Nortex Bold 17",
+    "marca": "Nortex",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "roxo",
+    "faixa_preco": "premium",
+    "preco": 569.9,
+    "tamanhos": [
+      37,
+      38,
+      40,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/street-17.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "roxo",
+      "premium",
+      "nortex"
+    ]
+  },
+  {
+    "id": "street-18",
+    "nome": "Pulse Block 18",
+    "marca": "Pulse",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "verde",
+    "faixa_preco": "médio",
+    "preco": 329.9,
+    "tamanhos": [
+      37,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "imagem": "img/street-18.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "verde",
+      "médio",
+      "pulse"
+    ]
+  },
+  {
+    "id": "street-19",
+    "nome": "Atlas Rocket 19",
+    "marca": "Atlas",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "preto",
+    "faixa_preco": "premium",
+    "preco": 619.9,
+    "tamanhos": [
+      36,
+      37,
+      40,
+      41,
+      42,
+      44
+    ],
+    "imagem": "img/street-19.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "preto",
+      "premium",
+      "atlas"
+    ]
+  },
+  {
+    "id": "street-20",
+    "nome": "Urbano Mega 20",
+    "marca": "Urbano",
+    "categoria": "street",
+    "uso": "street",
+    "estilo": "chunky",
+    "cor": "branco",
+    "faixa_preco": "médio",
+    "preco": 339.9,
+    "tamanhos": [
+      36,
+      38,
+      39,
+      41,
+      43,
+      44
+    ],
+    "imagem": "img/street-20.webp",
+    "tags": [
+      "street",
+      "chunky",
+      "branco",
+      "médio",
+      "urbano"
+    ]
+  }
+]
