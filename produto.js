@@ -57,7 +57,17 @@ async function iniciar() {
   comprar.className = "botao";
   comprar.textContent = "Adicionar ao carrinho";
   comprar.addEventListener("click", () => {
-    aviso.textContent = escolhido ? "O carrinho será ativado no próximo passo." : "Escolha um tamanho.";
+    aviso.classList.remove("ok");
+    if (!escolhido) {
+      aviso.textContent = "Escolha um tamanho.";
+      return;
+    }
+    if (adicionarAoCarrinho(p.id, escolhido)) {
+      aviso.classList.add("ok");
+      aviso.textContent = "Adicionado ao carrinho.";
+    } else {
+      aviso.textContent = "Não foi possível adicionar (carrinho cheio ou armazenamento bloqueado).";
+    }
   });
 
   info.append(
