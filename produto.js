@@ -1,9 +1,5 @@
 const id = new URLSearchParams(location.search).get("id") || "";
 
-function moeda(v) {
-  return v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
-}
-
 function linha(rotulo, valor) {
   const p = document.createElement("p");
   p.textContent = rotulo + ": " + valor;
@@ -36,6 +32,9 @@ async function iniciar() {
   preco.className = "preco";
   preco.textContent = moeda(p.preco);
 
+  const aviso = document.createElement("p");
+  aviso.id = "aviso";
+
   const rotuloTam = document.createElement("strong");
   rotuloTam.textContent = "Tamanho";
   const tamanhos = document.createElement("div");
@@ -57,10 +56,8 @@ async function iniciar() {
   const comprar = document.createElement("button");
   comprar.className = "botao";
   comprar.textContent = "Adicionar ao carrinho";
-  const aviso = document.createElement("p");
-  aviso.id = "aviso";
   comprar.addEventListener("click", () => {
-    aviso.textContent = escolhido ? "O carrinho será ativado no Dia 5." : "Escolha um tamanho.";
+    aviso.textContent = escolhido ? "O carrinho será ativado no próximo passo." : "Escolha um tamanho.";
   });
 
   info.append(
@@ -70,6 +67,22 @@ async function iniciar() {
     rotuloTam, tamanhos, comprar, aviso
   );
   alvo.append(img, info);
+
+  registrarVisualizacao(p);
+
+  const parecidos = recomendarParecidos(produtos, p, 4);
+  if (parecidos.length > 0) {
+    const secao = document.createElement("section");
+    const h = document.createElement("h2");
+    h.textContent = "Você também pode gostar";
+    const grade = document.createElement("div");
+    grade.className = "grade";
+    parecidos.forEach(x => grade.append(criarCard(x)));
+    secao.append(h, grade);
+    document.querySelector("main").append(secao);
+  }
+
+  iniciarPrivacidade(() => registrarVisualizacao(p));
 }
 
 iniciar();
