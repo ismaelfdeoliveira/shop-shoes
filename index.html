@@ -4,21 +4,42 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Shop Shoes</title>
-  <style>
-    body { font-family: system-ui, sans-serif; margin: 0; background: #fafafa; color: #1a1a1a; }
-    header { background: #12326b; color: #fff; padding: 16px 24px; }
-    header h1 { margin: 0; font-size: 1.4rem; }
-    main { padding: 24px; }
-    #grade { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
-    .card { background: #fff; border-radius: 8px; padding: 12px; box-shadow: 0 1px 4px rgba(0,0,0,.12); }
-    .card img { width: 100%; height: auto; }
-    .card h3 { font-size: 1rem; margin: 8px 0 4px; }
-    .card p { margin: 0; font-weight: 600; color: #d9600b; }
-  </style>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header><h1 id="nome-loja"></h1></header>
-  <main><div id="grade"></div></main>
+  <header>
+    <div class="topo">
+      <a href="index.html"><img src="img/logo.jpg" alt="Shop Shoes"></a>
+      <nav>
+        <button class="filtro" data-filtro="todos">Todos</button>
+        <button class="filtro" data-filtro="corrida">Corrida</button>
+        <button class="filtro" data-filtro="casual">Casual</button>
+        <button class="filtro" data-filtro="retro">Retrô</button>
+        <button class="filtro" data-filtro="street">Street</button>
+      </nav>
+    </div>
+  </header>
+  <main class="conteudo">
+    <section class="hero">
+      <div>
+        <h1>O tênis certo para o seu estilo</h1>
+        <p>Veja os modelos, e a loja aprende o que você gosta para sugerir os mais parecidos.</p>
+        <button class="botao" data-filtro="todos">Ver todos os tênis</button>
+      </div>
+      <img src="img/banner.webp" alt="Tênis em destaque">
+    </section>
+    <h2>Categorias</h2>
+    <section class="categorias">
+      <button class="cat" data-filtro="corrida"><img src="img/cat-corrida.webp" alt=""><span>Corrida</span></button>
+      <button class="cat" data-filtro="casual"><img src="img/cat-casual.webp" alt=""><span>Casual</span></button>
+      <button class="cat" data-filtro="retro"><img src="img/cat-retro.webp" alt=""><span>Retrô</span></button>
+      <button class="cat" data-filtro="street"><img src="img/cat-street.webp" alt=""><span>Street</span></button>
+    </section>
+    <h2 id="catalogo"><span id="titulo-catalogo">Todos os tênis</span></h2>
+    <div id="grade"></div>
+  </main>
+  <footer>Shop Shoes é uma loja fictícia de portfólio. Pagamentos apenas em ambiente de teste.</footer>
   <script src="app.js"></script>
 </body>
 </html>
